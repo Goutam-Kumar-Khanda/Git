@@ -9,8 +9,6 @@ System.out.println("Hello world");
 
 System.out.println(d.a);
 
-System.out.println("Program ended");
-
     
 
         }
