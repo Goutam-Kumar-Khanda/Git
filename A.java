@@ -1,1 +1,1 @@
-Welcome to Git Repository
+Welcome to Git
